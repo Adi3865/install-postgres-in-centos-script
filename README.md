@@ -1,0 +1,1 @@
+# install-postgres-in-centos-script
